@@ -1,0 +1,201 @@
+text,label,clean_text,avg_sent_len,num_pronouns,num_nouns,num_verbs
+I love painting and gardening. It helps me feel calm and happy every day.,0,love painting gardening help feel calm happy day,8.0,3.0,3.0,3.0
+My daughter visited me yesterday. We had coffee and talked about her job.,0,daughter visit yesterday coffee talk job,7.5,4.0,4.0,3.0
+I finished reading a book last night. The story was about a detective solving a mystery.,0,finish read book night story detective solve mystery,9.0,1.0,5.0,3.0
+"Every morning, I take a walk in the park. The fresh air helps me start the day right.",0,morning walk park fresh air help start day right,10.5,2.0,5.0,3.0
+I cooked pasta for dinner tonight. I used a recipe from my favorite cookbook.,0,cook pasta dinner tonight recipe favorite cookbook,8.0,3.0,5.0,2.0
+The weather is beautiful today. I think I'll sit outside and enjoy the sunshine.,0,weather beautiful today think sit outside enjoy sunshine,8.5,2.0,3.0,3.0
+I called my friend earlier. We planned to meet for lunch next weekend.,0,call friend early plan meet lunch weekend,7.5,3.0,3.0,3.0
+I cleaned the house this morning. Now everything looks tidy and organized.,0,clean house morning look tidy organize,7.0,2.0,2.0,3.0
+I watched a documentary about whales. They're such fascinating creatures.,0,watch documentary whale fascinating creature,6.5,2.0,3.0,1.0
+I wrote a letter to my grandson. I told him about my trip to the mountains.,0,write letter grandson tell trip mountain,9.0,5.0,4.0,2.0
+I listen to classical music while working. It helps me concentrate better.,0,listen classical music work help concentrate well,7.0,3.0,1.0,4.0
+I planted new flowers in my garden. They'll bloom in a few weeks.,0,plant new flower garden bloom week,8.0,3.0,3.0,2.0
+I went to the gym today. I've been trying to exercise three times a week.,0,go gym today try exercise time week,9.0,2.0,4.0,3.0
+I baked cookies this afternoon. The kitchen smells wonderful now.,0,bake cookie afternoon kitchen smell wonderful,6.0,1.0,3.0,2.0
+I volunteered at the library. I helped organize the children's book section.,0,volunteer library help organize child book section,7.5,2.0,4.0,3.0
+I attended a concert last weekend. The orchestra played Beethoven's symphonies.,0,attend concert weekend orchestra play beethoven symphony,7.0,1.0,4.0,2.0
+I finished knitting a scarf. I'll give it to my neighbor for her birthday.,0,finish knit scarf neighbor birthday,8.5,5.0,3.0,3.0
+I solved a crossword puzzle today. It took me about twenty minutes.,0,solve crossword puzzle today take minute,7.0,3.0,3.0,2.0
+I met my brother for breakfast. We talked about our childhood memories.,0,meet brother breakfast talk childhood memory,7.0,4.0,4.0,2.0
+This morning I made pancakes for the family. Everyone enjoyed them with maple syrup.,0,morning pancake family enjoy maple syrup,8.0,3.0,4.0,2.0
+I rearranged the living room furniture yesterday. The new layout feels more spacious.,0,rearrange living room furniture yesterday new layout feel spacious,7.5,1.0,5.0,2.0
+My book club discussed a fascinating novel last week. We all had different interpretations.,0,book club discuss fascinating novel week different interpretation,8.0,3.0,5.0,2.0
+I learned how to make sourdough bread during quarantine. Now it's my specialty.,0,learn sourdough bread quarantine specialty,8.0,3.0,4.0,2.0
+The grandkids came over on Saturday. We built a fort with blankets in the living room.,0,grandkid come saturday build fort blanket living room,9.0,1.0,5.0,2.0
+I've been practicing Spanish for 30 minutes each day. My vocabulary is improving steadily.,0,practice spanish minute day vocabulary improve steadily,8.5,2.0,3.0,2.0
+Yesterday I visited the art museum downtown. They had an excellent Impressionist exhibit.,0,yesterday visit art museum downtown excellent impressionist exhibit,7.5,2.0,5.0,2.0
+My husband and I celebrated our anniversary at our favorite Italian restaurant.,0,husband celebrate anniversary favorite italian restaurant,13.0,4.0,3.0,1.0
+I started a journal to document my travels. It's fun to revisit old memories.,0,start journal document travel fun revisit old memory,8.5,3.0,3.0,3.0
+The neighborhood had a block party last night. We met several new families.,0,neighborhood block party night meet new family,7.5,1.0,5.0,2.0
+I completed a 1000-piece jigsaw puzzle of the Eiffel Tower. It took me three days.,0,complete piece jigsaw puzzle eiffel tower take day,9.5,3.0,4.0,2.0
+My sister and I video chat every Sunday. We share recipes and talk about our gardens.,0,sister video chat sunday share recipe talk garden,9.0,4.0,3.0,4.0
+I signed up for a pottery class at the community center. The first session is next week.,0,sign pottery class community center session week,9.5,1.0,6.0,1.0
+The roses in my backyard are blooming beautifully this season. The red ones are my favorite.,0,rose backyard bloom beautifully season red one favorite,9.0,2.0,4.0,1.0
+I organized all my old photos into albums. It was wonderful reminiscing about the past.,0,organize old photo album wonderful reminisce past,8.5,3.0,3.0,2.0
+My son taught me how to use video editing software. I'm making a family vacation movie.,0,son teach use video editing software make family vacation movie,9.5,3.0,7.0,3.0
+I've been waking up early to watch the sunrise. The colors over the lake are breathtaking.,0,wake early watch sunrise color lake breathtake,9.5,1.0,3.0,3.0
+The book I'm reading has such an intriguing plot. I can't wait to see how it ends.,0,book read intriguing plot wait end,10.5,3.0,2.0,5.0
+I made homemade lemonade yesterday. The perfect drink for a warm summer afternoon.,0,homemade lemonade yesterday perfect drink warm summer afternoon,7.5,1.0,5.0,1.0
+My friend and I went birdwatching in the nature preserve. We spotted seven different species.,0,friend go birdwatch nature preserve spot seven different specie,8.5,3.0,4.0,3.0
+"I've been keeping track of my daily steps. Yesterday I walked over 10,000 steps!",0,keep track daily step yesterday walk step,8.5,3.0,4.0,2.0
+The farmers market had fresh strawberries today. I bought two baskets to make jam.,0,farmer market fresh strawberry today buy basket jam,8.0,1.0,6.0,3.0
+I taught my granddaughter how to play chess. She's learning quickly and beat me twice already.,0,teach granddaughter play chess learn quickly beat twice,9.5,4.0,2.0,4.0
+The yoga class at the senior center has improved my flexibility significantly.,0,yoga class senior center improve flexibility significantly,13.0,1.0,4.0,1.0
+I repaired the leaky faucet in the kitchen. It feels good to fix things myself.,0,repair leaky faucet kitchen feel good fix thing,8.5,3.0,3.0,3.0
+My daughter sent me flowers for Mother's Day. They're bright yellow daffodils.,0,daughter send flower mother day bright yellow daffodil,8.0,3.0,3.0,1.0
+I've been experimenting with watercolor painting. Landscapes are my favorite subject.,0,experiment watercolor painting landscapes favorite subject,7.0,2.0,3.0,1.0
+The historical society lecture was fascinating. I learned so much about our town's origins.,0,historical society lecture fascinating learn town origin,8.5,2.0,4.0,1.0
+I baked an apple pie using my grandmother's recipe. The cinnamon aroma filled the whole house.,0,bake apple pie grandmother recipe cinnamon aroma fill house,9.5,2.0,6.0,3.0
+My walking group meets every Tuesday morning. We explore different trails around the city.,0,walking group meet tuesday morning explore different trail city,8.0,2.0,5.0,2.0
+I finished knitting mittens for all my grandchildren. Just in time for winter too.,0,finish knit mitten grandchild time winter,8.0,2.0,4.0,2.0
+The documentary about coral reefs was eye-opening. I never realized how fragile they are.,0,documentary coral reef eye opening realize fragile,9.0,2.0,4.0,1.0
+I organized a surprise birthday party for my husband. All our children came home for it.,0,organize surprise birthday party husband child come home,9.0,4.0,5.0,2.0
+My tomato plants are producing so much fruit. I've been giving baskets to all my neighbors.,0,tomato plant produce fruit give basket neighbor,9.5,3.0,5.0,2.0
+I started learning to play the ukulele. My fingers are sore but it's so much fun.,0,start learn play ukulele finger sore fun,9.5,3.0,3.0,3.0
+The library book sale was this weekend. I found several classic novels for my collection.,0,library book sale weekend find classic novel collection,8.5,2.0,6.0,1.0
+I wrote down all my favorite family recipes in a notebook for my daughter.,0,write favorite family recipe notebook daughter,15.0,3.0,4.0,1.0
+The meteor shower last night was spectacular. We stayed up late to watch it from the backyard.,0,meteor shower night spectacular stay late watch backyard,9.5,2.0,4.0,2.0
+I've been meditating for 15 minutes each morning. It helps me stay centered throughout the day.,0,meditate minute morning help stay centered day,9.5,3.0,3.0,3.0
+My old college friends and I reunited for lunch. We laughed about our youthful adventures.,0,old college friend reunite lunch laugh youthful adventure,8.5,4.0,4.0,2.0
+I created a scrapbook of my travels through Europe. The memories came flooding back.,0,create scrapbook travel europe memory come flood,8.0,2.0,3.0,3.0
+The community theater production was excellent. The lead actress had a magnificent voice.,0,community theater production excellent lead actress magnificent voice,7.5,0.0,6.0,1.0
+I've been collecting seashells on my beach walks. I'm going to make a wind chime with them.,0,collect seashell beach walk go wind chime,10.5,4.0,5.0,3.0
+My grandson helped me set up a bird feeder. We've already seen cardinals and blue jays visit.,0,grandson help set bird feeder see cardinal blue jay visit,10.0,3.0,6.0,3.0
+I perfected my chili recipe after many attempts. The secret is a dash of cocoa powder.,0,perfect chili recipe attempt secret dash cocoa powder,9.0,2.0,7.0,1.0
+The astronomy club meeting was fascinating. We learned about the new Mars rover mission.,0,astronomy club meeting fascinating learn new mars rover mission,8.0,1.0,5.0,1.0
+I donated several boxes of books to the school fundraiser. It felt good to declutter.,0,donate box book school fundraiser feel good declutter,8.5,2.0,4.0,3.0
+My hydrangeas won first prize at the garden show. All that pruning paid off!,0,hydrangea win prize garden pruning pay,8.0,3.0,5.0,2.0
+I've been writing short stories about my childhood. My family finds them entertaining.,0,write short story childhood family find entertain,8.0,4.0,3.0,3.0
+The cooking class taught us how to make authentic Thai curry. The flavors were incredible.,0,cooking class teach authentic thai curry flavor incredible,8.5,1.0,4.0,2.0
+I framed all the children's artwork from over the years. The hallway is now a gallery.,0,frame child artwork year hallway gallery,9.5,1.0,5.0,1.0
+The nature photography exhibit inspired me to take better pictures of my garden.,0,nature photography exhibit inspire well picture garden,14.0,2.0,5.0,2.0
+I organized a family genealogy project. We discovered ancestors dating back to the 1700s.,0,organize family genealogy project discover ancestor date,8.0,2.0,4.0,3.0
+My morning routine includes stretching exercises and a healthy smoothie.,0,morning routine include stretch exercise healthy smoothie,11.0,1.0,4.0,2.0
+The antique shop had a beautiful set of teacups. I bought them to use for special occasions.,0,antique shop beautiful set teacup buy use special occasion,9.5,2.0,4.0,3.0
+I volunteered at the animal shelter yesterday. Playing with the puppies was so joyful.,0,volunteer animal shelter yesterday play puppy joyful,8.0,1.0,4.0,2.0
+My book about local wildflowers is nearly complete. I've been working on it for two years.,0,book local wildflower nearly complete work year,9.5,3.0,3.0,1.0
+The grandchildren helped me plant a vegetable garden. They're excited to watch it grow.,0,grandchild help plant vegetable garden excited watch grow,8.5,3.0,3.0,4.0
+I've been practicing calligraphy. My holiday cards will look extra special this year.,0,practice calligraphy holiday card look extra special year,8.0,2.0,4.0,2.0
+The community choir performance went wonderfully. My solo received a standing ovation.,0,community choir performance go wonderfully solo receive standing ovation,7.0,1.0,5.0,2.0
+I restored an old rocking chair I found at a flea market. It's now my favorite reading spot.,0,restore old rock chair find flea market favorite reading spot,10.5,4.0,5.0,3.0
+The homemade bread turned out perfectly crusty. I used a new yeast strain from France.,0,homemade bread turn perfectly crusty new yeast strain france,8.5,1.0,3.0,2.0
+I cataloged all my record collection alphabetically. It took all weekend but was worth it.,0,catalog record collection alphabetically take weekend worth,8.5,4.0,3.0,2.0
+The knitting circle at the library is so welcoming. We share patterns and life stories.,0,knitting circle library welcoming share pattern life story,8.5,1.0,6.0,1.0
+I planned a picnic at the botanical gardens. The roses were in full bloom and fragrant.,0,plan picnic botanical garden rose bloom fragrant,9.0,1.0,5.0,1.0
+My crossword puzzle streak continues - 45 days in a row completing the Sunday challenge.,0,crossword puzzle streak continue day row complete sunday challenge,16.0,1.0,5.0,2.0
+The grandchildren and I built a birdhouse together. We painted it bright blue and red.,0,grandchild build birdhouse paint bright blue red,8.5,3.0,4.0,2.0
+I've been researching my family's immigration history. The stories are fascinating.,0,research family immigration history story fascinating,7.5,2.0,4.0,1.0
+The quilting project I started last winter is finally finished. It's a gift for my niece.,0,quilting project start winter finally finish gift niece,9.5,3.0,5.0,2.0
+I organized all my spices alphabetically and bought matching jars. The kitchen looks neater.,0,organize spice alphabetically buy matching jar kitchen look neater,8.0,2.0,4.0,3.0
+The memoir writing class has been therapeutic. Sharing stories with others is healing.,0,memoir writing class therapeutic share story heal,7.5,0.0,5.0,2.0
+I perfected my grandmother's biscuit recipe after many attempts. They're now just as fluffy.,0,perfect grandmother biscuit recipe attempt fluffy,9.0,3.0,4.0,1.0
+The local history museum recruited me as a volunteer guide. I love sharing our town's story.,0,local history museum recruit volunteer guide love share town story,9.5,3.0,6.0,3.0
+I've been collecting vintage postcards from places I've visited. They make a beautiful collage.,0,collect vintage postcard place visit beautiful collage,9.0,3.0,3.0,3.0
+The piano in the community center needed tuning. I volunteered to play it afterward.,0,piano community center need tuning volunteer play afterward,8.0,2.0,4.0,3.0
+My herb garden is thriving this season. The basil is especially fragrant and plentiful.,0,herb garden thrive season basil especially fragrant plentiful,8.0,1.0,4.0,1.0
+I compiled all my mother's handwritten recipes into a book for the whole family.,0,compile mother handwritten recipe book family,16.0,2.0,4.0,1.0
+The walking tour of historic homes was enlightening. The architecture was breathtaking.,0,walk tour historic home enlightening architecture breathtake,7.0,0.0,3.0,2.0
+I've been journaling about my gardening experiences. Maybe I'll publish it someday.,0,journale gardening experience maybe publish someday,8.0,4.0,2.0,2.0
+"The grandchildren helped me bake Christmas cookies. We made stars, trees, and snowmen.",0,grandchild help bake christmas cookie star tree snowman,8.5,2.0,5.0,3.0
+I organized a neighborhood clean-up day. Everyone pitched in and we filled ten trash bags.,0,organize neighborhood clean day pitch fill trash bag,9.5,3.0,4.0,3.0
+"Uh, so like... I don't remember what I was doing. Maybe I went to the place, um, yesterday?",1,uh like remember maybe go place um yesterday,12.5,4.0,2.0,3.0
+"He, um, he was there... and then, uh, she said something about, I don't know, the dog maybe.",1,um uh say know dog maybe,27.0,5.0,1.0,2.0
+I went to the doctor today. He said my memory has gotten worse over the past year.,1,go doctor today say memory get bad past year,9.5,3.0,4.0,3.0
+Umm... I don't remember names. It's hard to find the right words sometimes.,1,umm remember name hard find right word,6.0,2.0,2.0,2.0
+"I was supposed to... uh... do something, but I can't recall what it was.",1,suppose uh recall,9.5,5.0,0.0,3.0
+The thing is... um... where did I put my keys? I just had them a minute ago.,1,thing um key minute ago,7.0,4.0,3.0,2.0
+"She told me her name, but... uh... it's gone now. I think it started with a 'J'?",1,tell uh go think start j,6.25,6.0,1.0,4.0
+"I went to the... uh... store? No, maybe it was the park. I'm not sure.",1,go uh store maybe park sure,7.333333333333333,3.0,2.0,1.0
+I keep forgetting appointments. My daughter had to remind me about the... um... the thing.,1,forget appointment daughter remind um thing,9.5,3.0,3.0,4.0
+"What was I saying? Oh, right... um... never mind, I lost my train of thought.",1,say oh right um mind lose train thought,7.0,4.0,2.0,3.0
+"I tried to cook, but I... uh... forgot the recipe halfway through.",1,try cook uh forget recipe halfway,16.0,2.0,1.0,3.0
+"I saw my friend, but... um... I couldn't remember how I knew her.",1,see friend um remember know,9.0,5.0,1.0,3.0
+Where is my wallet? I thought I left it on the... uh... table? Or was it the kitchen?,1,wallet think leave uh table kitchen,7.666666666666667,5.0,3.0,2.0
+"I wanted to tell you something important, but... uh... it slipped my mind.",1,want tell important uh slip mind,8.5,5.0,1.0,3.0
+I got lost driving home. The streets looked... um... unfamiliar.,1,get lose drive home street look um unfamiliar,4.666666666666667,1.0,3.0,3.0
+I forgot to take my pills again. I think it's the third time this week.,1,forgot pill think time week,9.0,4.0,3.0,3.0
+I couldn't finish my sentence because... uh... the word just disappeared.,1,finish sentence uh word disappear,7.5,2.0,2.0,2.0
+"I don't remember eating lunch, but my plate is... um... empty.",1,remember eat lunch plate um,16.0,2.0,2.0,2.0
+"I stared at the phone, but... uh... I couldn't recall who I was calling.",1,stare phone uh recall call,9.5,4.0,1.0,3.0
+I left the stove on yesterday. My son said it's becoming a... um... problem.,1,leave stove yesterday son say um problem,9.5,3.0,4.0,3.0
+The... the person who lives next door... what's her name again? She was just here.,1,person live door,6.666666666666667,4.0,3.0,1.0
+I was watching... um... that show with the doctor... what's it called? It's popular.,1,watch um doctor call popular,7.0,5.0,1.0,3.0
+"My... my... you know, the one who married my son... can't think of the word... daughter-in-law!",1,know marry son think word daughter law,13.5,4.0,5.0,3.0
+I went to get something from the... the cold box in the kitchen... refrigerator!,1,go cold box kitchen refrigerator,17.0,3.0,2.0,2.0
+"I know I had an appointment today, but... uh... can't remember where or when.",1,know appointment today uh remember,9.5,2.0,2.0,3.0
+What day is it today? I thought it was Tuesday but my calendar says Wednesday.,1,day today think tuesday calendar say wednesday,8.5,5.0,3.0,2.0
+I put my glasses down somewhere and now... um... they're just gone.,1,glass um go,8.0,3.0,1.0,2.0
+The story I was telling... um... what was the point I was trying to make?,1,story tell um point try,18.0,3.0,2.0,3.0
+"I called you earlier because... uh... oh dear, I've completely forgotten why.",1,call early uh oh dear completely forget,5.666666666666667,3.0,0.0,2.0
+I was in the middle of a task when... uh... what was I doing again?,1,middle task uh,9.0,3.0,2.0,1.0
+The grandkids came over and we... um... did something fun but I can't recall what.,1,grandkid come um fun recall,6.333333333333333,4.0,2.0,3.0
+I know this person well but... uh... their name is on the tip of my tongue.,1,know person uh tip tongue,9.5,3.0,4.0,1.0
+I was reading a book but... um... can't remember the title or what it's about.,1,read book um remember title,10.0,3.0,2.0,2.0
+I went to the place with all the books... library! That's what it's called.,1,go place book library call,9.5,4.0,3.0,2.0
+My daughter called to tell me something important but... uh... it's slipped my mind.,1,daughter call tell important uh slip mind,6.0,5.0,2.0,3.0
+I was going to make tea but... um... now I can't find the kettle I just had.,1,go tea um find kettle,10.5,3.0,2.0,4.0
+The program I watch every night... um... it's not coming to me right now.,1,program watch night um come right,6.0,3.0,2.0,2.0
+I know I needed to buy something at the store but... uh... can't remember what.,1,know need buy store uh remember,9.5,4.0,1.0,4.0
+I started cleaning but... um... got distracted and forgot what I was doing.,1,start clean um get distract forget,16.0,3.0,0.0,5.0
+"The neighbor asked me about... uh... some event, but I don't recall the details.",1,neighbor ask uh event recall detail,19.0,2.0,3.0,2.0
+I was telling a joke but... um... forgot the punchline halfway through.,1,tell joke um forget punchline halfway,15.0,1.0,2.0,2.0
+My medication schedule is... uh... I think I took them but maybe I didn't.,1,medication schedule uh think take maybe,4.5,5.0,2.0,3.0
+The restaurant we went to last week... um... can't remember what I ordered.,1,restaurant go week um remember order,8.5,3.0,2.0,3.0
+I put something important in a safe place but... uh... now I can't find it.,1,important safe place uh find,19.0,4.0,1.0,2.0
+The name of that thing you use to open cans... um... it starts with a 'c'...,1,thing use open can um start c,10.5,2.0,4.0,3.0
+I was going to water the plants but... uh... did I already do that today?,1,go water plant uh today,9.0,3.0,2.0,3.0
+The movie we watched recently... um... the plot is completely gone from my mind.,1,movie watch recently um plot completely go mind,17.0,2.0,3.0,2.0
+I know I had a question for you but... uh... it's disappeared from my thoughts.,1,know question uh disappear thought,4.75,5.0,2.0,3.0
+The street where I lived as a child... um... the name is just not coming to me.,1,street live child um come,10.0,2.0,3.0,2.0
+I was going to call someone important but... uh... can't remember who.,1,go important uh remember,16.0,3.0,0.0,3.0
+The password I've used for years... um... suddenly I can't recall it.,1,password year um suddenly recall,8.5,3.0,2.0,2.0
+I made a list of things to do but... uh... now I can't find the list.,1,list thing uh find list,20.0,2.0,3.0,3.0
+The relative who visited last month... um... can't remember who it was.,1,relative visit month um remember,8.0,3.0,2.0,2.0
+I was in the middle of a conversation when... uh... what were we talking about?,1,middle conversation uh talk,9.0,3.0,2.0,1.0
+The item I use to chop vegetables... um... knife! That's the word I wanted.,1,item use chop vegetable um knife word want,9.5,3.0,4.0,3.0
+I know I parked the car somewhere but... uh... can't remember where.,1,know park car uh remember,8.0,2.0,1.0,3.0
+The holiday we celebrated last... um... was it Christmas or Thanksgiving?,1,holiday celebrate um christmas thanksgiving,14.0,2.0,1.0,1.0
+I was going to take a shower but... uh... did I already take one today?,1,go shower uh today,9.0,2.0,2.0,3.0
+The author of that book I liked... um... his name is right there but I can't...,1,author book like um right,10.0,3.0,3.0,1.0
+I was supposed to meet someone but... uh... can't recall who or where.,1,suppose meet uh recall,17.0,3.0,0.0,3.0
+The thing you tell time with... um... watch! That's what I was trying to say.,1,thing tell time um watch try,10.0,4.0,2.0,4.0
+I know I had a doctor's appointment but... uh... can't remember when.,1,know doctor appointment uh remember,8.5,2.0,2.0,3.0
+The food I ate for breakfast... um... did I even have breakfast today?,1,food eat breakfast um breakfast today,16.0,2.0,4.0,2.0
+I was going to pay a bill but... uh... which one was it again?,1,go pay bill uh,8.5,2.0,2.0,2.0
+The place where you buy groceries... um... supermarket! The word escaped me.,1,place buy grocery um supermarket word escape,8.0,2.0,4.0,2.0
+I know I locked the door but... uh... now I'm not sure if I actually did.,1,know lock door uh sure actually,10.0,4.0,1.0,3.0
+The show I watch every morning... um... can't recall the name right now.,1,watch morning um recall right,17.0,1.0,3.0,2.0
+I was going to feed the pet but... uh... did I already do that?,1,go feed pet uh,8.5,3.0,1.0,3.0
+The relative who called yesterday... um... was it my sister or my niece?,1,relative call yesterday um sister niece,8.0,4.0,4.0,1.0
+I know I wrote down an important date but... uh... where did I put that note?,1,know write important date uh note,9.5,3.0,2.0,3.0
+The appliance that keeps food cold... um... refrigerator! It took me a moment.,1,appliance keep food cold um refrigerator take moment,8.5,3.0,4.0,2.0
+I was supposed to turn something off but... uh... was it the oven or the lights?,1,suppose turn uh oven light,19.0,3.0,1.0,2.0
+The holiday coming up soon... um... is it someone's birthday? I can't recall.,1,holiday come soon um birthday recall,6.333333333333333,3.0,2.0,2.0
+I know I put my purse somewhere safe but... uh... now I can't find it.,1,know purse safe uh find,9.5,5.0,1.0,3.0
+The program where people answer questions to win prizes... um... game show!,1,program people answer question win prize um game,15.0,0.0,6.0,2.0
+I was going to take my medication but... uh... did I already take it?,1,go medication uh,8.5,4.0,1.0,3.0
+The street where my best friend lives... um... the name is on the tip of my tongue.,1,street good friend live um tip tongue,20.0,2.0,5.0,1.0
+I know I had a good idea earlier but... uh... now it's completely gone.,1,know good idea early uh completely go,9.0,3.0,1.0,3.0
+The thing you sit on outside... um... lawn chair! The word wouldn't come.,1,thing sit outside um lawn chair word come,9.0,1.0,4.0,2.0
+I was supposed to buy something at the store but... uh... what was it again?,1,suppose buy store uh,9.0,4.0,1.0,2.0
+The relative who had a baby recently... um... can't remember who it was.,1,relative baby recently um remember,17.0,3.0,2.0,2.0
+I know I turned off the stove but... uh... maybe I should check again.,1,know turn stove uh maybe check,8.5,3.0,1.0,3.0
+The show with the detectives solving crimes... um... what's it called?,1,detective solve crime um call,5.0,2.0,3.0,2.0
+I was going to write a letter but... uh... who was it for again?,1,go write letter uh,8.5,3.0,1.0,2.0
+The thing you use to dry off after a shower... um... towel! It took me a while.,1,thing use dry shower um towel take,10.5,3.0,4.0,3.0
+I know I had an important paper but... uh... where did I put it?,1,know important paper uh,8.5,4.0,1.0,3.0
+The holiday when we give gifts... um... is it Christmas or Valentine's Day?,1,holiday gift um christmas valentine day,17.0,2.0,3.0,1.0
+I was supposed to call someone back but... uh... can't remember who.,1,suppose uh remember,8.0,3.0,0.0,3.0
+The place where you borrow books... um... library! Why couldn't I think of that?,1,place borrow book um library think,9.5,3.0,3.0,2.0
+I know I scheduled an appointment but... uh... can't recall with whom.,1,know schedule appointment uh recall,8.0,3.0,1.0,3.0
+The food I was going to cook for dinner... um... what was the recipe again?,1,food go cook dinner um recipe,9.0,2.0,3.0,2.0
+I was going to water the plants but... uh... did I already do that?,1,go water plant uh,8.5,3.0,1.0,3.0
+The relative who's coming to visit... um... is it my son or my brother?,1,relative come visit um son brother,18.0,4.0,3.0,2.0
+I know I had a question about something but... uh... it's gone now.,1,know question uh go,4.25,4.0,1.0,3.0
+The thing you use to cut paper... um... scissors! The word escaped me.,1,thing use cut paper um scissor word escape,8.5,2.0,4.0,3.0
+I was supposed to meet someone for lunch but... uh... who was it again?,1,suppose meet lunch uh,8.5,4.0,1.0,2.0
+The program about cooking competitions... um... what's that show called?,1,program cooking competition um call,4.666666666666667,1.0,4.0,1.0
+I know I put my glasses somewhere but... uh... now I can't find them.,1,know glass uh find,9.0,5.0,1.0,3.0
+The street where my doctor's office is... um... can't remember the name.,1,street doctor office um remember,17.0,1.0,4.0,1.0
+I was going to take a walk but... uh... did I already go today?,1,go walk uh today,8.5,2.0,2.0,3.0
